@@ -3,5 +3,12 @@ In this lab I am practicing security incident response and IAM issues.  The scen
 
 ![image](https://github.com/user-attachments/assets/a01e488b-849e-4e9c-85de-68e19ac4ec33)
 
+Review shows that the incident was created by u: Legal who is listed as an administer. 
+
+![image](https://github.com/user-attachments/assets/d401f525-4b92-4f26-bd2a-0240c91b3c9d)
+
+
+
+
 
  
