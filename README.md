@@ -7,6 +7,11 @@ Review shows that the incident was created by U: Legal who is listed as an admin
 
 ![image](https://github.com/user-attachments/assets/d401f525-4b92-4f26-bd2a-0240c91b3c9d)
 
+I have documented the incident and listed reccomendations to prevent any similar incidents below. 
+
+![image](https://github.com/user-attachments/assets/2d51344b-f1ee-4de4-947b-6118597064f7)
+
+
 
 
 
